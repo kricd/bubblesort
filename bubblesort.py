@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#
+
 def main():
     liste = [9, 8, 7, 1, 4, 3, 2, 6, 5]
     print (liste)
